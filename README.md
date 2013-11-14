@@ -11,7 +11,7 @@ To take advantage of the [uWSGI Caching Framework](http://uwsgi-docs.readthedocs
 in your rails application, you just need to add this gem to your Gemfile
 
 ```ruby
-gem 'activesupport-uwsgistore', :git => 'https://github.com/rugginoso/activesupport-uwsgistore.git'
+gem 'activesupport-uwsgistore', :github => 'rugginoso/activesupport-uwsgistore'
 
 ```
 
